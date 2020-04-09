@@ -15,10 +15,6 @@ The release version of TMO_CAN was implemented and has been tested on Ubuntu 16.
 - PyTorch >= 0.4.1
 - torchvision >= 0.2.1 
 
-
-## Dataset
-We do not have the right to distribute the large-scale dataset used for training and testing. Please kindly refer to the respective authors acknowledged in the manuscript.
-
 ## Train
 We recommend to use **GPU**:
 ```
