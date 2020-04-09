@@ -10,7 +10,7 @@ We propose a perceptually optimized tone mapping method for high-dynamic-range (
 
 
 ## Prerequisites
-The release version of MEF-Net was implemented and has been tested on Ubuntu 16.04 with
+The release version of TMO_CAN was implemented and has been tested on Ubuntu 16.04 with
 - Python = 3.5.2
 - PyTorch >= 0.4.1
 - torchvision >= 0.2.1 
