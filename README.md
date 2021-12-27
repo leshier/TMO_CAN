@@ -1,4 +1,4 @@
-# Perceptually Optimized Deep High-Dynamic-Range Image Tone Mapping (2021 ICVRV Best Paper)
+# Perceptually Optimized Deep High-Dynamic-Range Image Tone Mapping (2021 ICVRV, Best Paper)
 ![framework](./framework.png)
 
 ## Introduction
