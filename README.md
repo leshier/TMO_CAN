@@ -1,4 +1,4 @@
-# Perceptually Optimized Deep High-Dynamic-Range Image Tone Mapping 
+# Perceptually Optimized Deep High-Dynamic-Range Image Tone Mapping (2021 ICVRV Best Paper)
 ![framework](./framework.png)
 
 ## Introduction
@@ -34,5 +34,10 @@ python Main.py --train False --use_cuda False --ckpt TMO_CAN_release.pt
 
 ## Citation
 
-To Do
+@article{le2021perceptually,
+  title={Perceptually Optimized Deep High-Dynamic-Range Image Tone Mapping},
+  author={Le, Chenyang and Yan, Jiebin and Fang, Yuming and Ma, Kede},
+  journal={arXiv preprint arXiv:2109.00180},
+  year={2021}
+}
 
